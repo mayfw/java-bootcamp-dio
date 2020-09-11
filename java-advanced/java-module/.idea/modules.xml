@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-module.iml" filepath="$PROJECT_DIR$/java-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one.digitalinnovation.main.core/one.digitalinnovation.main.core.iml" filepath="$PROJECT_DIR$/one.digitalinnovation.main.core/one.digitalinnovation.main.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/one.digitalinnovation.utils/one.digitalinnovation.utils.iml" filepath="$PROJECT_DIR$/one.digitalinnovation.utils/one.digitalinnovation.utils.iml" />
+    </modules>
+  </component>
+</project>
